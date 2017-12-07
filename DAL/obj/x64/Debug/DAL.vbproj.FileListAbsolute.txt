@@ -1,0 +1,18 @@
+D:\Project INDiGO\Indigo Professional\DAL\bin\x64\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional\DAL\bin\x64\Debug\DAL.pdb
+D:\Project INDiGO\Indigo Professional\DAL\bin\x64\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional\DAL\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\Indigo Professional\DAL\obj\x64\Debug\DAL.Resources.resources
+D:\Project INDiGO\Indigo Professional\DAL\obj\x64\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\Indigo Professional\DAL\obj\x64\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional\DAL\obj\x64\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional\DAL\obj\x64\Debug\DAL.pdb
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\bin\x64\Debug\DAL.dll
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\bin\x64\Debug\DAL.pdb
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\bin\x64\Debug\DAL.xml
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x64\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x64\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x64\Debug\DAL.dll
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x64\Debug\DAL.xml
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x64\Debug\DAL.pdb

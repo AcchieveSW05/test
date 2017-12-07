@@ -1,0 +1,170 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+masPro
+</name>
+</assembly>
+<members>
+<member name="M:masPro.modMain.pubGetData(DAL.Adapter,System.String,System.String)">
+ <summary>
+ Public Get Data.
+ </summary>
+ <param name="da">DAL.Adapter</param>
+ <param name="sql">The SQL.</param>
+ <param name="TableName">Name of the table.</param>
+ <returns></returns>
+</member>
+<member name="M:masPro.modMain.pubGetData(DAL.Adapter,System.String,System.String,DAL.ParameterList)">
+ <summary>
+ Public Get Data.
+ </summary>
+ <param name="da">DAL.Adapter</param>
+ <param name="sql">The SQL.</param>
+ <param name="TableName">Name of the table.</param>
+ <param name="para">The paras.</param>
+ <returns></returns>
+</member>
+<member name="T:masPro.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources._16AddNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources._32mCancel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources._32mClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources._32mSave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mAddNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mCancel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mClose_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mDelete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mDelete32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mEdit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mEdit32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mPost">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mPreview48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mPrint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mPrint32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mPrint48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mSave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.mSave32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.Preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.Preview32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.Preview48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.SaveAs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.Ship1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:masPro.My.Resources.Resources.UnApprove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

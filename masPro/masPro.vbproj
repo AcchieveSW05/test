@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{519F522E-E224-4427-8B53-1F2747C72C2B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>masPro.My.MyApplication</StartupObject>
+    <RootNamespace>masPro</RootNamespace>
+    <AssemblyName>masPro</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>masPro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>masPro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>masPro.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>masPro.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Stone.WinUIPro">
+      <HintPath>..\..\..\..\ACChieveTrading Full - Copy\Backup Restore\Backup Restore\bin\Debug\Stone.WinUIPro.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="02_Master\masPro.Designer.vb">
+      <DependentUpon>masPro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="02_Master\masPro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02_Master\masProject.Designer.vb">
+      <DependentUpon>masProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="02_Master\masProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="88_Report\frmPrintMaster2.Designer.vb">
+      <DependentUpon>frmPrintMaster2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="88_Report\frmPrintMaster2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="88_Report\ReportMaster.Designer.vb">
+      <DependentUpon>ReportMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="88_Report\ReportMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="99_ Module\AttachmentFile.vb" />
+    <Compile Include="99_ Module\FormAttachmentFile.Designer.vb">
+      <DependentUpon>FormAttachmentFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="99_ Module\FormAttachmentFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="99_ Module\frmBase.Designer.vb">
+      <DependentUpon>frmBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="99_ Module\frmBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="99_ Module\frmBaseSearch.Designer.vb">
+      <DependentUpon>frmBaseSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="99_ Module\frmBaseSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="99_ Module\frmGreyBackground.Designer.vb">
+      <DependentUpon>frmGreyBackground.vb</DependentUpon>
+    </Compile>
+    <Compile Include="99_ Module\frmGreyBackground.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="99_ Module\frmSave.Designer.vb">
+      <DependentUpon>frmSave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="99_ Module\frmSave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="99_ Module\iComponent.vb" />
+    <Compile Include="99_ Module\modMain.vb" />
+    <Compile Include="99_ Module\modSubFunction.vb" />
+    <Compile Include="99_ Module\modTool.vb" />
+    <Compile Include="99_ Module\Module1.vb" />
+    <Compile Include="DebugForm.Designer.vb">
+      <DependentUpon>DebugForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DebugForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="02_Master\masProject.resx">
+      <DependentUpon>masProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="88_Report\frmPrintMaster2.resx">
+      <DependentUpon>frmPrintMaster2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="88_Report\frmPrintMaster2.th-TH.resx">
+      <DependentUpon>frmPrintMaster2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="88_Report\ReportMaster.resx">
+      <DependentUpon>ReportMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="88_Report\ReportMaster.th-TH.resx">
+      <DependentUpon>ReportMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="99_ Module\FormAttachmentFile.resx">
+      <DependentUpon>FormAttachmentFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="99_ Module\FormAttachmentFile.th-TH.resx">
+      <DependentUpon>FormAttachmentFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="99_ Module\frmBase.resx">
+      <DependentUpon>frmBase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="99_ Module\frmBaseSearch.resx">
+      <DependentUpon>frmBaseSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="99_ Module\frmGreyBackground.resx">
+      <DependentUpon>frmGreyBackground.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="99_ Module\frmSave.resx">
+      <DependentUpon>frmSave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DebugForm.resx">
+      <DependentUpon>DebugForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.vbproj">
+      <Project>{4a1d80bd-723b-4500-ae17-e251ac656a59}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\16AddNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\32mCancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\32mClose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\32mSave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mAddNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mCancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mClose 48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mClose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mDelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mDelete32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mEdit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mEdit32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mPost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mPreview48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mPrint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mPrint32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mPrint48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mSave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\mSave32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\Preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\Preview32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\Preview48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\SaveAs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\Ship1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_MainMenu\UnApprove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

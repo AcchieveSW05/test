@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;gbReport.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="&gt;&gt;lblChangeReport.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="&gt;&gt;cmdSale.Name" xml:space="preserve">
+    <value>cmdSale</value>
+  </data>
+  <data name="gbReport.Text" xml:space="preserve">
+    <value>Report name :</value>
+  </data>
+  <data name="lblChangeReport.Text" xml:space="preserve">
+    <value>Change report</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="lblChangeReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 20</value>
+  </data>
+  <data name="gMaster.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1044, 150</value>
+  </data>
+  <data name="&gt;&gt;cboFileNameDp.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="cmdPrint.Text" xml:space="preserve">
+    <value>Print (F9)</value>
+  </data>
+  <data name="gMaster.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="cmdSale.Location" type="System.Drawing.Point, System.Drawing">
+    <value>585, 122</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cboFileName.TabIndex" type="System.Int32, mscorlib">
+    <value>266</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale1.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale0.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsRadioButton, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="CrystalReportViewer1.ShowRefreshButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="ContextMenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 26</value>
+  </data>
+  <data name="lblChangeReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>733, 92</value>
+  </data>
+  <data name="&gt;&gt;กำหนดขนาดกระดาษToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rdoPrintSale1.TabIndex" type="System.Int32, mscorlib">
+    <value>263</value>
+  </data>
+  <data name="&gt;&gt;cmdSale.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="cmdOpenFile.TabIndex" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="&gt;&gt;cmdOpenFile.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsButton, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 126</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cmdClose.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="lblChangeReport.TabIndex" type="System.Int32, mscorlib">
+    <value>259</value>
+  </data>
+  <data name="rdoPrintSale1.Text" xml:space="preserve">
+    <value>Print Delivery product</value>
+  </data>
+  <data name="&gt;&gt;cmdOpenFile.Name" xml:space="preserve">
+    <value>cmdOpenFile</value>
+  </data>
+  <data name="&gt;&gt;cboPrinter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboPrinter.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="gbReport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>349, 50</value>
+  </data>
+  <data name="&gt;&gt;cmdSale.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="cmdPrint.Location" type="System.Drawing.Point, System.Drawing">
+    <value>721, 34</value>
+  </data>
+  <data name="CrystalReportViewer1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="CrystalReportViewer1.ShowCloseButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cboPrinter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 34</value>
+  </data>
+  <data name="rdoPrintSale1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="txtFileName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>260, 23</value>
+  </data>
+  <data name="rdoPrintSale0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;lblChangeReport.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale0.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="CrystalReportViewer1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1044, 200</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="cmdSale.TabIndex" type="System.Int32, mscorlib">
+    <value>126</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale0.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;cboPaper.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmPrintMaster2</value>
+  </data>
+  <data name="cmdOpenFile.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;lblVatType.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="rdoPrintSale1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="rdoPrintSale0.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;cboFileNameDp.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;txtFileName.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>377, 34</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Report purchase order</value>
+  </data>
+  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="lblVatType.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cboPrinter.Name" xml:space="preserve">
+    <value>cboPrinter</value>
+  </data>
+  <data name="cmdClose.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;cmdSale.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsButton, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="&gt;&gt;cmdClose.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsButton, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="txtFileName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="cmdOpenFile.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;gbReport.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="gbReport.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;ContextMenuStrip1.Name" xml:space="preserve">
+    <value>ContextMenuStrip1</value>
+  </data>
+  <data name="&gt;&gt;gMaster.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="cboPrinter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>233, 21</value>
+  </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;cmdOpenFile.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="CrystalReportViewer1.DisplayGroupTree" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="gMaster.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="cboFileName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>484, 34</value>
+  </data>
+  <data name="CrystalReportViewer1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="gbReport.TabIndex" type="System.Int32, mscorlib">
+    <value>260</value>
+  </data>
+  <data name="&gt;&gt;lblVatType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>ACChieveTrading.frmBase, ACChieveTrading, Version=9.1.5008.19, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;reportDocument1.Name" xml:space="preserve">
+    <value>reportDocument1</value>
+  </data>
+  <data name="lblVatType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 34</value>
+  </data>
+  <data name="&gt;&gt;cmdPrint.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="lblChangeReport.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale1.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsRadioButton, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="&gt;&gt;cboFileNameDp.Name" xml:space="preserve">
+    <value>cboFileNameDp</value>
+  </data>
+  <data name="&gt;&gt;CrystalReportViewer1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblChangeReport.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="CrystalReportViewer1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="cmdClose.Location" type="System.Drawing.Point, System.Drawing">
+    <value>883, 34</value>
+  </data>
+  <data name="cboFileNameDp.TabIndex" type="System.Int32, mscorlib">
+    <value>273</value>
+  </data>
+  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
+    <value>Label1</value>
+  </data>
+  <data name="&gt;&gt;CrystalReportViewer1.Type" xml:space="preserve">
+    <value>CrystalDecisions.Windows.Forms.CrystalReportViewer, CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale0.Name" xml:space="preserve">
+    <value>rdoPrintSale0</value>
+  </data>
+  <data name="cmdOpenFile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 23</value>
+  </data>
+  <data name="&gt;&gt;lblChangeReport.Name" xml:space="preserve">
+    <value>lblChangeReport</value>
+  </data>
+  <data name="cmdClose.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 50</value>
+  </data>
+  <data name="&gt;&gt;cboFileName.Name" xml:space="preserve">
+    <value>cboFileName</value>
+  </data>
+  <data name="cmdClose.TabIndex" type="System.Int32, mscorlib">
+    <value>123</value>
+  </data>
+  <data name="&gt;&gt;cboPaper.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale1.Name" xml:space="preserve">
+    <value>rdoPrintSale1</value>
+  </data>
+  <data name="rdoPrintSale0.Location" type="System.Drawing.Point, System.Drawing">
+    <value>106, 58</value>
+  </data>
+  <data name="lblVatType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 23</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="cmdPrint.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAEnxJREFUaEPtWQk0lWvblkbNSBNKg2iQklIo1YnTQIOERppTcpQmnTrSHCpJg3mM
+        DBkzhUQqcnTMSuYhs0QDStd3P6/tpHM66z//t77V+b+1/nute+137/3u572ue3ru5958/4SYmZn1Ie3B
+        e/vfJ6csLAxOW1hYW1lbq56xth7G+/i/R85YWNhdsrWFla1thbWtbfI1Bwe/my4ulxzd3Q87eXhscLt1
+        S9nZ21vczs6uJ+8n/7fkuqPjbQ8fH7h6eeGWvz/8QkIQcPcu9+oXHNwaGBxcH3rvXlFYbGwqaXRkbKx3
+        dHy8dVxi4r7wuDgx3jL/jLi5uQl7+/s/vnvvHoLCwhASEYGw6Gjci4tDTEIC4p88weOUFDxNS0NqVhbS
+        cnOR8eIFnhcWIvvlSyT9+utK3lL/jNwLC5SJjIl+9TApCQmdYH/7DakZGfgtOxuZz58jh4A+LyhAXnEx
+        8ktKUFBaitLKSmTn5bUmpaSo8Zb6/rI4PK+3+4P0w3Fxce3pOTkc2Of5+RzIkooKVFRXo6q2FtX19ahp
+        aEA1aRVdV9Jn9U1NeF5SUkKkp/KW+/6iF1V9yCujDmWlRR1WffWKA8eA1jY2ciC7at2bN5yy71rb21Fd
+        XR0bEmLXl7fcd5Y1vt33xzc9fl7fgoaGOlS/fo1aAvdHsN9S9n1r+ydUVFXY8lb7/jLfIVPpwpOqhsYP
+        H1DXRFYlYEy/BfiP2tjchIbmZlg9qS7ZHlUfZGQdrMpb9vuJqmPW6dC8RrxpasCrujpUMqX4rmKxTt6o
+        YUqhwhHjvXYSePu2CRkVjdj56BO2JgLax25Z8pb9PjJa7/Jg3VuZ8Tk1TaiurUJpVRXKmFLSltfUoILy
+        gClHjCVtJzHSmsbXeP/+DVxTa7DpYTvUb71oW2HsPJe39PeR/gYhKgeCk5sraqtRXF6GwvJyFDGlylNM
+        iVzClMpkCZHqJFfOI1ddX0eVqBa7A4uwLh5Y7/IsQ0tNS4i39PcR8UOhpreelqDyVSleFBVx9f0lUyqf
+        nXWekWJkWL3vJFBaWYWG17WIzSyEquNzaN5twsIL98/xlv3PyHiPvIHCjrkDeG85cXZ2Fvfw8NAOCvDf
+        73kn9PBep/tZqfllKCgqQDbV/VzapNjOyogUEIFi8gQDXk7A2V5QwcKK9BVp05t6HLqVDAW7PMyyS2rp
+        u/L0Et5j/j0xM9vdX9oxbcqomznH+S3THvCdT8nuc/NltqBrcdwE2ySbdabnvUyOHCn66aefPly4cB76
+        mzfDzsGJkrYWeWT9FzzgzAP5ZHnO+mVlXEgxL3S9ZvmSVVACRfMozHTIh9zJe7/xiS0T5UH534naxVDZ
+        4XY5u4Xt88L5LFKb+E4kQOZ0CHRtgiC/+xR6LTPAYPUdkFmojkWqali6ZAlUVRdBWkoKjs5OnJUzaOfN
+        ysv7otTjUHvwu7IWIoc8xJR5qbKqDLYhyRA2votptukQ1bO/xoPz92TmkavCClfjNgtdy/Hse7OgtLt1
+        LgYdi4DGWW/c9ApA2tNHePUyG7bnT2Ol2gLIT5LEqJHDMXzECAgLC4OWwMxZsxD36BHuP36MB6SJv/6K
+        JOp9WLOWQv0Pa9ieUQ/E+qA0ptRiMM18nouXhfk44BANiZ+jMfpAcLPwQhONDmT/g5SWlgok5hafvZxS
+        +ULPpejjHL9ySJp6wNjCHmn08LbmBgDtaG35gGoWqxS/9BukEajIqCh4urvhgKEB5GUmYudWPUTeDYK/
+        nw987vjjdmAgAqgL5TrQBw84cg+fPsXj1FQkPXuGp+npSM3MpM4zD/FxMTAxMqTfhLFWu833TuBeHsS/
+        lrg4lz4VNfW2hBBtpOVv2xGfkg4fdxf4ebggLCQI9whkcvJTUG9FNfo9uxXt7Z/R1ka/aPuAhuoKRKa/
+        gPWjbFgnpMMh5hE8wyLhS/2+l58vnD084ODmBgd3d+5M4H3nDkcqlNaNiI0F9f5IJmMcv+4CSfX1OHvN
+        Hm6Odjigr3ODB/OvhSrBD69fv/7QTqCaP3zC2zev0VhHVYGS6jeyfhg9iHp6XL16FdbW1rCxsYGrqyti
+        Y2OQR727Y/gTKF1PgPjVNBhE1EEvuB5jfKshEVICQ68I5GdncuvEP3yIu3QW8PbzgyOtZ+vgADqZcaR8
+        /P1w2uYGJh1wgJBlEobZZkDIPAxDjnhkjbR6dFbSOUeTb++V3jzIX4vdnewDMWktePayCcVllagj8LW0
+        S9ZQqFRRmXtFtbqIqkkmuTmeLBVIIeFAD75oZYVjx45h2RZjjNczh+gOW0iZ3IbIwTBMd/gVrvmNKK5t
+        QCt5rJHahioWduTBPEreDMqFR3Q2iGbWJ01IiEdCTCQiQ4JxwD4QApczwWdXBT7XWvTwqEMvq8x3EqvO
+        OH1Oi+rHg/1FNHZGnFh1KBs6h+Jhctgcly9ZwNPTE9TDc6ALCgq50ClmZZBVC7L6M4rdRxTLUXTKCgm8
+        g1tOdjj9y8/Q27kHi9fvwBHTIwj380ZS4kPuN51h9/nzZ7S0tKCRep9qtnlRCa2hVru25CUepufiaFgO
+        pJzywHezBHwOZeC7kg9+86cYus4Gc5eqt50xPbiAB/uLLNwZ8ssi4wzM2xwG5QXqkKVEnDFDHkuoLG7Z
+        soWz8vVr1xAUFITExEQ8o3DIImLMiiw0kpOT8ZDCg4UUyxcvNyecO3Mae3bvgb6ePrZv346DBw/CwsIC
+        vr6+SKekbaCep/XDO7S8b0ZaWR2Mo4ox3r4AfFcJ+HVSqyz0PBSLcQaukF+5BzNmzsG0qRNbxo8Z8+eu
+        dI5hwDHlIzmYa/QAs1U0IDSoH4SEhCEqKoqxY8di0qRJmDVzJhYtWgRdXV0Y79sHS0tLOLu4IDg4mPMU
+        8wZTjsj9+4ii5GSh5uzkjPPnz8PExASbaYPT0tKCpuYq6K5ZDdMzFjBNeAVpV7L01WLSIvCRtYX2BkF2
+        qy0W6RhBYaYCxooOx4RxYzBt2rRmOTm5P3tghvHdI3LHX0DhMCWjqiYEevGjWzd+9OjRA3369MHAgQMh
+        IiICcXFxjB8/HjIyMpg9ezbnoRUrVmDbtm0wMzODnZ0dfHx8EBoayhG4R+EVGRWJu2z6QInLEp8VgaMU
+        Xjt3bMe5kEc4nt6CPU/eQtW3EMKbXaGsdwm6evugojgH4sOFMXhgPzLkSMjJzcD06dObvklA1jThkPTJ
+        l5h27ClUV23EyKFCGDx4MAdcQEAAvXr1Qs+ePTll7wcMGICRI0dCXV0denp6WL58OecdVVVVaGtrY9eu
+        XTA1NYUVeYkluxeVTUYgICAA/v7+8HBzgVdINJ7UAEn1QFTJe6wwccOmbcewVE2Ne35fgT4YRBiGDRuG
+        iRMnQlFREfPmzXtDhlPhwf4ikuZPD4halkPqZBqWbzTAFKmxkJwwAePGjYOYmBiGDh1KISX0FSHmnf79
+        +2PUqFGQotaBrMOFW6eHFBQUsOiHH7By5Uro6+vD2NiY89LFi1a4dtUGnpFZuJ38FuG5rTjhkgyd7Weg
+        o7WC28n79BGAEO3qw+i5EhISlI8zsGDBAigpKTXOmTNnXgfqLiJ14p7JSItciJ+nSrT7MGbKTsao0aMh
+        LS2NqVOncoCYFRhARohZhbUNjADzSvfu3Tll1yzkmIeGDBnyOzlZWVku5BYuXEheWwrdtetw+EoiTt4q
+        x5XgKiw3cMfWXaYYM3okevfuza3NjMZycPLkyZz1Fy9ejB9//PE1Xf/5YDN1j9X+1ftOY9M5d+w4eg6K
+        M+UoB7pxlhYUFMTw4cMxmoEhr7AFWVJPkJTkrNNJiHmIAe/qoc6QGzRoELcGu19aShLT5eShsScYOsey
+        sOUMVb91ttDfuhuCgwZw9zLwI6i3YvfLy8tj/vz5XJhqaGjUq6ioKPNgf5HZ158az3dOhcbNGOwxuwDV
+        +cpk0R6cOzt1CC0qTl5hC3dWJ2Zd5hmm7LqrhzpDrm/fvl8R6t2rBwYLimDORi8o70iG0rZHmLH6CtZu
+        2AwhwUGc9Vl+sYLBIkBZWRlqlBdr1qzhCBAZJYb5K3FLLZFfHlBSohRQBUvX29i/dS168PNxYcEWMDLZ
+        j6MnTmCrgQGWUNWRp3AYR4BFySsj2MMINMuXifRAFm5M2cPHjBnzVcgx6wr0ITICg6Bu6AjzS4FYdzAA
+        07SuYLXuJogMEeTuZaHHrE8VBz9QHrFisWHDBujo6NRRLijyYH+Rea61y5U9G8sV3eqxwasAKjdD28dM
+        mvSJ3NWeQO1wQVk5EpKScIfKoz2VwjNUXYxoY9LdtAkLKTZlKclGEdih9HDmodHkKRZiU6ZM4XKIvU6g
+        8GOgRg4fCuFho7DQxAfn3GJw0i4EMzfaQkNzHSUt7T1EmHmS3c+Mx0q1pqYmt6ESiQaqdF97YIOJZb/J
+        NiUxUt7AFNc2TL+d2D7CLLVNRGV3a0Lik09s+2/99Alv3r3jxiLshJVCXSMbzPoEBOKGkxNOnD2LXUZG
+        0KRNTpmqxWRKWhZuohQGYwiMJJFhXqGNCJMnTsBY6amYtc8buy6FQ/NkFCZusMeyVboQHTGMSI7h7mfE
+        WVlm+8z69ethtNcQmzZtek5hNJ4HvUPMzNb0Gn00ynLIqecQvFiPIZeKPvIpm7XtPuXNdlbWoIKx+MxT
+        dt3y8SMa376lM2wtd2Bng1pGiLXI1jdu4Gdzc85DOhs3QoJCix7DhSMrh/PnKWOawlzMNvXDL46h2Hw5
+        DJL6TvhRYw1GiY3gwLPwo3LJYh7r1upi2xZ9lgfv6bPDHaj/LL1G6l/WmXs88MkoFc92FRX79sbmdwS1
+        43zQqR95ylh1JfSBzgQNTU0oo24z60UentGJK4raiZXkeraDs9jn5+fnyqHmCg3MU1OHnFkIzF0jYGAT
+        grHbXLBomSaVUTEqBh2lm0om1upoUeuijenKWugrNCGecE7vgNtFqMsUjI8O04m64+nj5WhXfZPagaKy
+        UoJFwNrpBEavXUl0VUaGEegkxK4/skMO/e7ozz9zscxAL126DPMptFat0sT6tTpYpb0Ww0/T+cGmAJNt
+        MiG+yxOLlq6E5DgJTKIyPVdZEVqay6G6VBPiUzXQbYjCY7Ix+49AoAN1F6Hu0IN1ls/oeBcdfQ8v8/O4
+        oeqbDx/QRG3vW7LuOwqZ95QHLQSshdrhb5HqJMPEhZo8VnVYKLAKok2Nm5b6jzi8zwgHjfdi45btGHg2
+        EXyXqeu0LsRQw9tQXbIcEyeMo+ZNjot9GaXVEBBf1MQ3YKI9wZQh7cYB/qOYHz+uYXHunKeHh0dNXmHh
+        77PKOjZBbm7Ga0reRurlOwk1t7biLRFi3mGEupJhUkg5wZKVbWCdm9g46clQWr8PZlfdEODjDWeHm1B0
+        y8AgJ+pCrxVD0NAbaks0MF1GCnKKahghqwX+4UoZfL1EjQiiSAfSv5CLPj4Cl21sVkbFxxcX8sZ+bGbZ
+        OavsSqiBEreT0O9kyEPMO63kGSY2dOxkCcjahvnzVSApIQZx9T1Q8GvGLPtKaNzIwCGPRBgE5WJtZAWW
+        RVRCbL8vJJYfgpiCLgaNUG/jE5bzJ2is5/n237KW7u79nN3dF/oGBVmGxcYmJyYltbAxB5vhsAEUN+6j
+        0xIbxHYdwHITZR4h5p2uhFgI5ZMHN1O9Zg2coeFenDtlzh2G5G1yMfYWIOPRjqnunyDj/A7ydpWY61CM
+        VUFVkDoeDX5FU/QYv7yYv7/EcYI4qgPpX8jFixcF7NzclG+6unp6+fk1xNIhJJlOSYwAGzCx+WVBWcdA
+        lhvEUnVh2nWy3HVMzsiwPHGjY+i2rVtx4cIFODs7w/6GLSwvWmPqwbvodzQbQywrIXr9HcY5f8QUL0DO
+        n0hdr4LIUnP0FJkW252vuzrB69WB8u9Jt8NmZhI2trbbfQMC7kc/edLABkzM+gw4I8INY9k4kAj9Pllm
+        h3N2niUyTNkfGGx86EybGju8sBNaeHg4wug6MiICJ06dx2i5pWW9lYySB2g7vxps/AAiR1MwVN/sk+Cs
+        Lfk9B4idISzSHZD+feG3vHx5nk9w8Kn4xMTouJSUNwx8KVmdge9Khmmnd2opN9LJc3TmzbW3t89PopaD
+        TR2yKSQTEhLYGeCTwgzZGDLrKnrGYNEpi6eKzNhgKCirfWag2AxD+kyOtA8D8J+UvnQ8VAkOD98bHhsb
+        GpOYWMPGgJ0E2CsjwKzP2ortBgZh9Jt51LNPIhKrYmJiTlEIBW/cuNGLTnY/0XdjuVX/CaFdsd+lS5fG
+        2jk6rvT2978RERubw/4yZerm5ZW7Wlv7NN32Lfez+c23B1H/pNi5uEj7BwfvsHdx2UUbzjT6qHvHN/8v
+        f1P4+P4FIST9ekxh4q0AAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="gMaster.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;cboPaper.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rdoPrintSale0.Text" xml:space="preserve">
+    <value>Print Sale</value>
+  </data>
+  <data name="gMaster.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 23</value>
+  </data>
+  <data name="&gt;&gt;cmdOpenFile.Parent" xml:space="preserve">
+    <value>gbReport</value>
+  </data>
+  <data name="&gt;&gt;CrystalReportViewer1.Name" xml:space="preserve">
+    <value>CrystalReportViewer1</value>
+  </data>
+  <data name="&gt;&gt;lblVatType.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="cmdSale.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="&gt;&gt;cboFileName.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="lblVatType.TabIndex" type="System.Int32, mscorlib">
+    <value>261</value>
+  </data>
+  <data name="&gt;&gt;gbReport.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsGrouper, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="cboPaper.TabIndex" type="System.Int32, mscorlib">
+    <value>264</value>
+  </data>
+  <data name="txtFileName.TabIndex" type="System.Int32, mscorlib">
+    <value>124</value>
+  </data>
+  <data name="&gt;&gt;CrystalReportViewer1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="cmdClose.Text" xml:space="preserve">
+    <value> Close (Esc)</value>
+  </data>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
+  </data>
+  <data name="&gt;&gt;cmdPrint.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsButton, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="&gt;&gt;cboPaper.Name" xml:space="preserve">
+    <value>cboPaper</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="cmdClose.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="&gt;&gt;cmdClose.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="&gt;&gt;cboFileName.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lblVatType.Name" xml:space="preserve">
+    <value>lblVatType</value>
+  </data>
+  <data name="lblChangeReport.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="cmdSale.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="CrystalReportViewer1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 150</value>
+  </data>
+  <data name="&gt;&gt;txtFileName.Parent" xml:space="preserve">
+    <value>gbReport</value>
+  </data>
+  <data name="cboPaper.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;gbReport.Name" xml:space="preserve">
+    <value>gbReport</value>
+  </data>
+  <data name="cboFileName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>209, 21</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Report name :</value>
+  </data>
+  <data name="lblVatType.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="gbReport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>380, 69</value>
+  </data>
+  <data name="txtFileName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 23</value>
+  </data>
+  <data name="cboPrinter.TabIndex" type="System.Int32, mscorlib">
+    <value>258</value>
+  </data>
+  <data name="cmdPrint.TabIndex" type="System.Int32, mscorlib">
+    <value>122</value>
+  </data>
+  <data name="&gt;&gt;lblChangeReport.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;cmdClose.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="cmdPrint.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="cboPaper.Items2" xml:space="preserve">
+    <value>A4</value>
+  </data>
+  <data name="rdoPrintSale0.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="gMaster.Text" xml:space="preserve">
+    <value> Report purchase order</value>
+  </data>
+  <data name="rdoPrintSale0.TabIndex" type="System.Int32, mscorlib">
+    <value>262</value>
+  </data>
+  <data name="cmdPrint.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="cboPaper.Items1" xml:space="preserve">
+    <value>Letter</value>
+  </data>
+  <data name="cmdOpenFile.Text" xml:space="preserve">
+    <value>Open File</value>
+  </data>
+  <data name="กำหนดขนาดกระดาษToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
+  </data>
+  <data name="&gt;&gt;txtFileName.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsTextBox, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="&gt;&gt;cboPrinter.Parent" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="cboPaper.Items" xml:space="preserve">
+    <value>Half Letter</value>
+  </data>
+  <data name="&gt;&gt;reportDocument1.Type" xml:space="preserve">
+    <value>CrystalDecisions.CrystalReports.Engine.ReportDocument, CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304</value>
+  </data>
+  <data name="&gt;&gt;cboFileName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rdoPrintSale0.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 23</value>
+  </data>
+  <data name="&gt;&gt;cmdClose.Name" xml:space="preserve">
+    <value>cmdClose</value>
+  </data>
+  <data name="rdoPrintSale1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>211, 59</value>
+  </data>
+  <data name="&gt;&gt;rdoPrintSale1.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;gMaster.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="rdoPrintSale1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;gMaster.Type" xml:space="preserve">
+    <value>Stone.WinUI.AsGrouper, Stone.WinUIUltimate, Version=2.3.0.0, Culture=neutral, PublicKeyToken=16b34e7ef4e4e471</value>
+  </data>
+  <data name="&gt;&gt;ContextMenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cmdOpenFile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>259, 23</value>
+  </data>
+  <data name="cboFileNameDp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>209, 21</value>
+  </data>
+  <data name="cmdOpenFile.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;กำหนดขนาดกระดาษToolStripMenuItem.Name" xml:space="preserve">
+    <value>กำหนดขนาดกระดาษToolStripMenuItem</value>
+  </data>
+  <data name="cboPaper.Size" type="System.Drawing.Size, System.Drawing">
+    <value>233, 21</value>
+  </data>
+  <data name="cboPrinter.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="cmdPrint.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rdoPrintSale1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>187, 23</value>
+  </data>
+  <data name="Label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="cmdClose.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1044, 350</value>
+  </data>
+  <data name="gbReport.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cboFileNameDp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>484, 34</value>
+  </data>
+  <data name="cmdOpenFile.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAAoBJREFUOE+Nkl1Ik1Ecxv8X3fR1YZfropt5Iwl504UEEcbsIpoY1C4G1iDBMEmJ
+        gTIzdbqlpMOZc2hGNc3K0EYsU2E1glKxBMWsqWtffs19OF/3Pf+dc3pV3uiiB37wHHifH+fAC7uZ0sL1
+        SS3U/g/0W362n4lGqOfsWlz7eA3XrUXIzdzDtLsbcfmpkPU+pN/ys/18VkMDbr7GneArjLna0f+lDN8b
+        8nDkXYuA0TE9DqmPd/Cz/XxSgyYdeIGpNRMjHXyJU4O30OP34wrHoZvgDIfxjc2GDTWS4UKVKpOf/omt
+        FppSvj5MLj9h0D7er8BZux2/zc/jos+Hcysr2GuxIE1BZWWJQGK9Cw+Sq88w7n7EoN32WIbfFxaYZDkU
+        YhK9ybRHZn6+ip8DjFaDLu7twYijk0G7tfsK/lhaYpIN8oRdCb0JfY6kvLyUnwMMV0F71NmFnL2dQfuY
+        sRDtDgeTBLe3BRL31hbmlZaW8XOAt0owRJYMGJ7XMWgf7pDiotPJJJvRqECyGong2eLi2/wcYEgJXdzP
+        NgzNNjNot7RdRAcRUAkXiwkkAXI+o1BU8HOAgQroCc+1oH9aw6Dd3HoBnS4Xk0QSCYEkTM6n5fI7/Byg
+        rwxMoZkm9E3VMWgfbJagy+1mklgyKZBwpOfIZEq6PUg4ZrwB5uA0+ZUnahhBcouB++fR4/EwSTKVEki2
+        ST8plVZTQQZBXCKBzhFdTnjRXJLYmKzDwNcG7G88h16vFz2E9M4OpgiJdBrjRBYnXZSbq6WCvRiLocCg
+        AOPzKtGH8d5Lv5SXD7gOicX6w1lZTUezszV/c0QsvslPhWktglPNclDVX4WH5HiCIPo3kPEbqvVdCNmJ
+        YYgAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="lblVatType.Text" xml:space="preserve">
+    <value>Printer name :</value>
+  </data>
+  <data name="&gt;&gt;txtFileName.Name" xml:space="preserve">
+    <value>txtFileName</value>
+  </data>
+  <data name="Label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="cmdPrint.Size" type="System.Drawing.Size, System.Drawing">
+    <value>156, 50</value>
+  </data>
+  <data name="CrystalReportViewer1.ShowGroupTreeButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cboPaper.Location" type="System.Drawing.Point, System.Drawing">
+    <value>346, 123</value>
+  </data>
+  <data name="Label2.TabIndex" type="System.Int32, mscorlib">
+    <value>267</value>
+  </data>
+  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblVatType.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
+  <data name="&gt;&gt;cmdPrint.Name" xml:space="preserve">
+    <value>cmdPrint</value>
+  </data>
+  <data name="&gt;&gt;gMaster.Name" xml:space="preserve">
+    <value>gMaster</value>
+  </data>
+  <data name="&gt;&gt;cboFileNameDp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cmdPrint.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
+    <value>265</value>
+  </data>
+  <data name="CrystalReportViewer1.ShowPrintButton" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>39</value>
+  </metadata>
+  <metadata name="ContextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>176, 12</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="reportDocument1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>5, 6</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Thai (Thailand)</value>
+  </metadata>
+</root>

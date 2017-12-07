@@ -1,0 +1,5 @@
+D:\Project INDiGO\IndigoSmartPlus\DAL\bin\x64\x64\DAL.dll
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\x64\x64\ResolveAssemblyReference.cache
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\x64\x64\DAL.Resources.resources
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\x64\x64\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\x64\x64\DAL.dll

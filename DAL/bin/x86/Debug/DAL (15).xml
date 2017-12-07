@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DAL
+</name>
+</assembly>
+<members>
+<member name="M:DAL.Adapter.#ctor">
+	<summary>
+ Initializes a new instance of the <see cref="T:DAL.Adapter"/> class.
+ </summary>
+</member><member name="M:DAL.Adapter.Dispose">
+	<summary>
+ Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+ </summary>
+</member><member name="P:DAL.Adapter.ConnectionInfo">
+	<summary>
+ Gets or sets the connection info.
+ </summary>
+	<value>The connection info.</value>
+</member><member name="P:DAL.Adapter.TimeOut">
+	<summary>
+ Gets or sets the time out.
+ </summary>
+	<value>The time out.</value>
+</member><member name="M:DAL.Adapter.Open">
+	<summary>
+ Open the connection.
+ </summary>
+	<returns></returns>
+</member><member name="M:DAL.Adapter.Open(System.String)">
+	<summary>
+ Opens the specified connection string.
+ </summary>
+	<param name="connectionString">The connection string.</param>
+	<returns></returns>
+</member><member name="M:DAL.Adapter.Close">
+	<summary>
+ Closes connection.
+ </summary>
+</member><member name="M:DAL.Adapter.TransBegin">
+	<summary>
+ Begin transaction.
+ </summary>
+</member><member name="M:DAL.Adapter.TransCommit">
+	<summary>
+ Commit transaction.
+ </summary>
+</member><member name="M:DAL.Adapter.TransRollback">
+	<summary>
+ Rollback transaction.
+ </summary>
+</member><member name="M:DAL.Adapter.GetData(System.String)">
+	<summary>
+ Gets the data.
+ </summary>
+	<param name="tableName">Name of the table.</param>
+	<returns></returns>
+</member><member name="M:DAL.Adapter.GetData(System.String,System.String)">
+	<summary>
+ Gets the data.
+ </summary>
+	<param name="sql">The SQL.</param>
+	<param name="tableName">Name of the table.</param>
+	<returns></returns>
+</member><member name="M:DAL.Adapter.GetData(System.String,System.String,DAL.ParameterList)">
+	<summary>
+ Gets the data.
+ </summary>
+	<param name="sql">The SQL.</param>
+	<param name="tableName">Name of the table.</param>
+	<param name="paras">The paras.</param>
+	<returns></returns>
+</member><member name="M:DAL.Adapter.ExecuteNonQuery(System.String)">
+	<summary>
+ Executes the non query.
+ </summary>
+	<param name="sql">The SQL.</param>
+	<returns></returns>
+</member><member name="M:DAL.Adapter.ExecuteNonQuery(System.String,DAL.ParameterList)">
+	<summary>
+ Executes the non query.
+ </summary>
+	<param name="sql">The SQL.</param>
+	<param name="paras">The paras.</param>
+	<returns></returns>
+</member><member name="M:DAL.Adapter.UpdateData(System.Data.DataSet)">
+	<summary>
+ Updates the data.
+ </summary>
+	<param name="ds">The ds.</param>
+</member><member name="M:DAL.Adapter.UpdateData(System.Data.DataTable)">
+	<summary>
+ Updates the data.
+ </summary>
+	<param name="dt">The dt.</param>
+	<returns></returns>
+</member>
+</members>
+</doc>

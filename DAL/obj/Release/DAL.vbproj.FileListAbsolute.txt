@@ -1,0 +1,27 @@
+D:\projectVB\IndigoSmartAccount\DAL\bin\Release\DAL.dll
+D:\projectVB\IndigoSmartAccount\DAL\bin\Release\DAL.pdb
+D:\projectVB\IndigoSmartAccount\DAL\bin\Release\DAL.xml
+D:\projectVB\IndigoSmartAccount\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\projectVB\IndigoSmartAccount\DAL\obj\Release\DAL.Resources.resources
+D:\projectVB\IndigoSmartAccount\DAL\obj\Release\DAL.vbproj.GenerateResource.Cache
+D:\projectVB\IndigoSmartAccount\DAL\obj\Release\DAL.dll
+D:\projectVB\IndigoSmartAccount\DAL\obj\Release\DAL.xml
+D:\projectVB\IndigoSmartAccount\DAL\obj\Release\DAL.pdb
+D:\projectVB\INDiGO Inter\DAL\bin\Release\DAL.dll
+D:\projectVB\INDiGO Inter\DAL\bin\Release\DAL.pdb
+D:\projectVB\INDiGO Inter\DAL\bin\Release\DAL.xml
+D:\projectVB\INDiGO Inter\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\projectVB\INDiGO Inter\DAL\obj\Release\DAL.Resources.resources
+D:\projectVB\INDiGO Inter\DAL\obj\Release\DAL.vbproj.GenerateResource.Cache
+D:\projectVB\INDiGO Inter\DAL\obj\Release\DAL.dll
+D:\projectVB\INDiGO Inter\DAL\obj\Release\DAL.xml
+D:\projectVB\INDiGO Inter\DAL\obj\Release\DAL.pdb
+D:\2012_Project\IndigoAccountInter\DAL\bin\Release\DAL.dll
+D:\2012_Project\IndigoAccountInter\DAL\bin\Release\DAL.pdb
+D:\2012_Project\IndigoAccountInter\DAL\bin\Release\DAL.xml
+D:\2012_Project\IndigoAccountInter\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\2012_Project\IndigoAccountInter\DAL\obj\Release\DAL.Resources.resources
+D:\2012_Project\IndigoAccountInter\DAL\obj\Release\DAL.vbproj.GenerateResource.Cache
+D:\2012_Project\IndigoAccountInter\DAL\obj\Release\DAL.dll
+D:\2012_Project\IndigoAccountInter\DAL\obj\Release\DAL.xml
+D:\2012_Project\IndigoAccountInter\DAL\obj\Release\DAL.pdb

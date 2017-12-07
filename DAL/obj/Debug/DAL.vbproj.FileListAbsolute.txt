@@ -1,0 +1,349 @@
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\bin\Debug\DAL.dll
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\bin\Debug\DAL.pdb
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\bin\Debug\DAL.xml
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\obj\Debug\DAL.Resources.resources
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\obj\Debug\DAL.dll
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\obj\Debug\DAL.xml
+E:\2011_Project\INDiGO Project\IndigoBiz\DAL\obj\Debug\DAL.pdb
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\bin\Debug\DAL.dll
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\bin\Debug\DAL.pdb
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\bin\Debug\DAL.xml
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\obj\Debug\DAL.Resources.resources
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\obj\Debug\DAL.dll
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\obj\Debug\DAL.xml
+E:\2011 INDiGO Project\Indigo GL\IndigoGL\DAL\obj\Debug\DAL.pdb
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\bin\Debug\DAL.dll
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\bin\Debug\DAL.pdb
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\bin\Debug\DAL.xml
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\obj\Debug\DAL.Resources.resources
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\obj\Debug\DAL.dll
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\obj\Debug\DAL.xml
+E:\2011 INDiGO Project\IndigoSmartAccount\DAL\obj\Debug\DAL.pdb
+D:\projectVB\IndigoSmartAccount\DAL\bin\Debug\DAL.dll
+D:\projectVB\IndigoSmartAccount\DAL\bin\Debug\DAL.pdb
+D:\projectVB\IndigoSmartAccount\DAL\bin\Debug\DAL.xml
+D:\projectVB\IndigoSmartAccount\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\projectVB\IndigoSmartAccount\DAL\obj\Debug\DAL.Resources.resources
+D:\projectVB\IndigoSmartAccount\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\projectVB\IndigoSmartAccount\DAL\obj\Debug\DAL.dll
+D:\projectVB\IndigoSmartAccount\DAL\obj\Debug\DAL.xml
+D:\projectVB\IndigoSmartAccount\DAL\obj\Debug\DAL.pdb
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\bin\Debug\DAL.dll
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\bin\Debug\DAL.pdb
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\bin\Debug\DAL.xml
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\obj\Debug\DAL.Resources.resources
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\obj\Debug\DAL.dll
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\obj\Debug\DAL.xml
+E:\ห้ามลบ\project\IndigoSmartAccount\DAL\obj\Debug\DAL.pdb
+C:\IndigoSmartAccount\DAL\bin\Debug\DAL.dll
+C:\IndigoSmartAccount\DAL\bin\Debug\DAL.pdb
+C:\IndigoSmartAccount\DAL\bin\Debug\DAL.xml
+C:\IndigoSmartAccount\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\IndigoSmartAccount\DAL\obj\Debug\DAL.Resources.resources
+C:\IndigoSmartAccount\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\IndigoSmartAccount\DAL\obj\Debug\DAL.dll
+C:\IndigoSmartAccount\DAL\obj\Debug\DAL.xml
+C:\IndigoSmartAccount\DAL\obj\Debug\DAL.pdb
+D:\projectVB\INDiGO Inter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\projectVB\INDiGO Inter\DAL\obj\Debug\DAL.Resources.resources
+D:\projectVB\INDiGO Inter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\projectVB\INDiGO Inter\DAL\obj\Debug\DAL.dll
+D:\projectVB\INDiGO Inter\DAL\obj\Debug\DAL.xml
+D:\projectVB\INDiGO Inter\DAL\obj\Debug\DAL.pdb
+D:\projectVB\INDiGO Inter\DAL\bin\Debug\DAL.dll
+D:\projectVB\INDiGO Inter\DAL\bin\Debug\DAL.pdb
+D:\projectVB\INDiGO Inter\DAL\bin\Debug\DAL.xml
+D:\Project\INDiGO Inter\DAL\bin\Debug\DAL.dll
+D:\Project\INDiGO Inter\DAL\bin\Debug\DAL.pdb
+D:\Project\INDiGO Inter\DAL\bin\Debug\DAL.xml
+D:\Project\INDiGO Inter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\INDiGO Inter\DAL\obj\Debug\DAL.Resources.resources
+D:\Project\INDiGO Inter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project\INDiGO Inter\DAL\obj\Debug\DAL.dll
+D:\Project\INDiGO Inter\DAL\obj\Debug\DAL.xml
+D:\Project\INDiGO Inter\DAL\obj\Debug\DAL.pdb
+E:\local D\Project\INDiGO Inter\DAL\bin\Debug\DAL.dll
+E:\local D\Project\INDiGO Inter\DAL\bin\Debug\DAL.pdb
+E:\local D\Project\INDiGO Inter\DAL\bin\Debug\DAL.xml
+E:\local D\Project\INDiGO Inter\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\local D\Project\INDiGO Inter\DAL\obj\Debug\DAL.Resources.resources
+E:\local D\Project\INDiGO Inter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\local D\Project\INDiGO Inter\DAL\obj\Debug\DAL.dll
+E:\local D\Project\INDiGO Inter\DAL\obj\Debug\DAL.xml
+E:\local D\Project\INDiGO Inter\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\Somsak\IndigoAccountInter\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\IndigoAccountInter\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\IndigoAccountInter\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\IndigoAccountInter\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\IndigoAccountInter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\IndigoAccountInter\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\IndigoAccountInter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\IndigoAccountInter\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\IndigoAccountInter\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\IndigoAccountInter\DAL\obj\Debug\DAL.pdb
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\bin\Debug\DAL.dll
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\bin\Debug\DAL.pdb
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\bin\Debug\DAL.xml
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\obj\Debug\DAL.Resources.resources
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\obj\Debug\DAL.dll
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\obj\Debug\DAL.xml
+D:\16-08-55\27-08-2555\IndigoAccountInter\DAL\obj\Debug\DAL.pdb
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\bin\Debug\DAL.dll
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\bin\Debug\DAL.pdb
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\bin\Debug\DAL.xml
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\obj\Debug\DAL.Resources.resources
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\obj\Debug\DAL.dll
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\obj\Debug\DAL.xml
+D:\16-08-55\05-09-55\IndigoAccountInter\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\14-09-2012\IndigoAccountInter\DAL\obj\Debug\DAL.pdb
+D:\210912\IndigoAccountInter\DAL\bin\Debug\DAL.dll
+D:\210912\IndigoAccountInter\DAL\bin\Debug\DAL.pdb
+D:\210912\IndigoAccountInter\DAL\bin\Debug\DAL.xml
+D:\210912\IndigoAccountInter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\210912\IndigoAccountInter\DAL\obj\Debug\DAL.Resources.resources
+D:\210912\IndigoAccountInter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\210912\IndigoAccountInter\DAL\obj\Debug\DAL.dll
+D:\210912\IndigoAccountInter\DAL\obj\Debug\DAL.xml
+D:\210912\IndigoAccountInter\DAL\obj\Debug\DAL.pdb
+D:\210912\New\IndigoAccountInter\DAL\bin\Debug\DAL.dll
+D:\210912\New\IndigoAccountInter\DAL\bin\Debug\DAL.pdb
+D:\210912\New\IndigoAccountInter\DAL\bin\Debug\DAL.xml
+D:\210912\New\IndigoAccountInter\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\210912\New\IndigoAccountInter\DAL\obj\Debug\DAL.Resources.resources
+D:\210912\New\IndigoAccountInter\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\210912\New\IndigoAccountInter\DAL\obj\Debug\DAL.dll
+D:\210912\New\IndigoAccountInter\DAL\obj\Debug\DAL.xml
+D:\210912\New\IndigoAccountInter\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\IDG Restaurant\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\IDG Restaurant\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\IDG Restaurant\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\IDG Restaurant\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\IDG Restaurant\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\IDG Restaurant\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\IDG Restaurant\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\IDG Restaurant\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\IDG Restaurant\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\IndigoRestaurant\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\IndigoRestaurant\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\IndigoRestaurant\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\IndigoRestaurant\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\IndigoRestaurant\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\IndigoRestaurant\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\IndigoRestaurant\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\IndigoRestaurant\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\IndigoRestaurant\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\indigoPOS\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\indigoPOS\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\indigoPOS\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\indigoPOS\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\indigoPOS\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\indigoPOS\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\indigoPOS\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\indigoPOS\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\indigoPOS\DAL\obj\Debug\DAL.pdb
+D:\2012_Project\indigoPOS\DAL\bin\Debug\DAL.dll
+D:\2012_Project\indigoPOS\DAL\bin\Debug\DAL.pdb
+D:\2012_Project\indigoPOS\DAL\bin\Debug\DAL.xml
+D:\2012_Project\indigoPOS\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\2012_Project\indigoPOS\DAL\obj\Debug\DAL.Resources.resources
+D:\2012_Project\indigoPOS\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\2012_Project\indigoPOS\DAL\obj\Debug\DAL.dll
+D:\2012_Project\indigoPOS\DAL\obj\Debug\DAL.xml
+D:\2012_Project\indigoPOS\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\Success Project\indigoPOS\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\Success Project\indigoPOS\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\Success Project\indigoPOS\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\Success Project\indigoPOS\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\Success Project\indigoPOS\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\Success Project\indigoPOS\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\Success Project\indigoPOS\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\Success Project\indigoPOS\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\Success Project\indigoPOS\DAL\obj\Debug\DAL.pdb
+D:\2012_Project\San\indigoPOS\DAL\bin\Debug\DAL.dll
+D:\2012_Project\San\indigoPOS\DAL\bin\Debug\DAL.pdb
+D:\2012_Project\San\indigoPOS\DAL\bin\Debug\DAL.xml
+D:\2012_Project\San\indigoPOS\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\2012_Project\San\indigoPOS\DAL\obj\Debug\DAL.Resources.resources
+D:\2012_Project\San\indigoPOS\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\2012_Project\San\indigoPOS\DAL\obj\Debug\DAL.dll
+D:\2012_Project\San\indigoPOS\DAL\obj\Debug\DAL.xml
+D:\2012_Project\San\indigoPOS\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\IndigoSmart\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\IndigoSmart\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\IndigoSmart\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\IndigoSmart\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\IndigoSmart\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\IndigoSmart\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\IndigoSmart\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\IndigoSmart\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\IndigoSmart\DAL\obj\Debug\DAL.pdb
+D:\2012_Project\IndigoSmart\DAL\bin\Debug\DAL.dll
+D:\2012_Project\IndigoSmart\DAL\bin\Debug\DAL.pdb
+D:\2012_Project\IndigoSmart\DAL\bin\Debug\DAL.xml
+D:\2012_Project\IndigoSmart\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\2012_Project\IndigoSmart\DAL\obj\Debug\DAL.Resources.resources
+D:\2012_Project\IndigoSmart\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\2012_Project\IndigoSmart\DAL\obj\Debug\DAL.dll
+D:\2012_Project\IndigoSmart\DAL\obj\Debug\DAL.xml
+D:\2012_Project\IndigoSmart\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\IndigoSmartPlus\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\IndigoSmartPlus\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\IndigoSmartPlus\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\IndigoSmartPlus\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.pdb
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\bin\Debug\DAL.dll
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\bin\Debug\DAL.pdb
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\bin\Debug\DAL.xml
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\obj\Debug\DAL.Resources.resources
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\obj\Debug\DAL.dll
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\obj\Debug\DAL.xml
+D:\Project Freelance Job\Project Freelance Job\Auto Pirnt\DAL\obj\Debug\DAL.pdb
+D:\2013 Project\Indigo Professional\DAL\bin\Debug\DAL.dll
+D:\2013 Project\Indigo Professional\DAL\bin\Debug\DAL.pdb
+D:\2013 Project\Indigo Professional\DAL\bin\Debug\DAL.xml
+D:\2013 Project\Indigo Professional\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\2013 Project\Indigo Professional\DAL\obj\Debug\DAL.Resources.resources
+D:\2013 Project\Indigo Professional\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\2013 Project\Indigo Professional\DAL\obj\Debug\DAL.dll
+D:\2013 Project\Indigo Professional\DAL\obj\Debug\DAL.xml
+D:\2013 Project\Indigo Professional\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.pdb
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\bin\Debug\DAL.dll
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\bin\Debug\DAL.pdb
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\bin\Debug\DAL.xml
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.Resources.resources
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.dll
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.xml
+E:\D\Project INDiGO\P' Sak\Indigo Professional\DAL\obj\Debug\DAL.pdb
+E:\D\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.dll
+E:\D\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.pdb
+E:\D\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.xml
+E:\D\Project INDiGO\Indigo Professional\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.Resources.resources
+E:\D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.dll
+E:\D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.xml
+E:\D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.pdb
+E:\Data D\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.dll
+E:\Data D\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.pdb
+E:\Data D\Project INDiGO\Indigo Professional\DAL\bin\Debug\DAL.xml
+E:\Data D\Project INDiGO\Indigo Professional\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Data D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.Resources.resources
+E:\Data D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\Data D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.dll
+E:\Data D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.xml
+E:\Data D\Project INDiGO\Indigo Professional\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\ACChieve2014\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\ACChieve2014\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\ACChieve2014\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\ACChieve2014\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\ACChieve2014\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\ACChieve2014\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\ACChieve2014\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\ACChieve2014\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\ACChieve2014\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\ACChieveTrading\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\ACChieveTrading\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\ACChieveTrading\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\ACChieveTrading\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\ACChieveTrading\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\ACChieveTrading\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\ACChieveTrading\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\ACChieveTrading\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\ACChieveTrading\DAL\obj\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\bin\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\bin\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\bin\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.pdb
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\bin\Debug\DAL.dll
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\bin\Debug\DAL.pdb
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\bin\Debug\DAL.xml
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.Resources.resources
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.dll
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.xml
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\Debug\DAL.pdb
+D:\0_All Project\SangfahAgri\DAL\bin\Debug\DAL.dll
+D:\0_All Project\SangfahAgri\DAL\bin\Debug\DAL.pdb
+D:\0_All Project\SangfahAgri\DAL\bin\Debug\DAL.xml
+D:\0_All Project\SangfahAgri\DAL\obj\Debug\DAL.Resources.resources
+D:\0_All Project\SangfahAgri\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\0_All Project\SangfahAgri\DAL\obj\Debug\DAL.dll
+D:\0_All Project\SangfahAgri\DAL\obj\Debug\DAL.xml
+D:\0_All Project\SangfahAgri\DAL\obj\Debug\DAL.pdb
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\bin\Debug\DAL.dll
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\bin\Debug\DAL.pdb
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\bin\Debug\DAL.xml
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\Debug\DAL.Resources.resources
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\Debug\DAL.dll
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\Debug\DAL.xml
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\Debug\DAL.pdb
+D:\all project\0_DLL\masPro\masPro\DAL\bin\Debug\DAL.dll
+D:\all project\0_DLL\masPro\masPro\DAL\bin\Debug\DAL.pdb
+D:\all project\0_DLL\masPro\masPro\DAL\bin\Debug\DAL.xml
+D:\all project\0_DLL\masPro\masPro\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+D:\all project\0_DLL\masPro\masPro\DAL\obj\Debug\DAL.Resources.resources
+D:\all project\0_DLL\masPro\masPro\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+D:\all project\0_DLL\masPro\masPro\DAL\obj\Debug\DAL.dll
+D:\all project\0_DLL\masPro\masPro\DAL\obj\Debug\DAL.xml
+D:\all project\0_DLL\masPro\masPro\DAL\obj\Debug\DAL.pdb

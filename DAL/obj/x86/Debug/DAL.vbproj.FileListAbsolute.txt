@@ -1,0 +1,203 @@
+D:\Project INDiGO\Indigo Professional\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\Indigo Professional\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\Indigo Professional\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\Indigo Professional\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\Indigo Professional\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional\DAL\obj\x86\Debug\DAL.pdb
+D:\2014 Project\Indigo Professional\DAL\bin\x86\Debug\DAL.dll
+D:\2014 Project\Indigo Professional\DAL\bin\x86\Debug\DAL.pdb
+D:\2014 Project\Indigo Professional\DAL\bin\x86\Debug\DAL.xml
+D:\2014 Project\Indigo Professional\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2014 Project\Indigo Professional\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\2014 Project\Indigo Professional\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\2014 Project\Indigo Professional\DAL\obj\x86\Debug\DAL.dll
+D:\2014 Project\Indigo Professional\DAL\obj\x86\Debug\DAL.xml
+D:\2014 Project\Indigo Professional\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\Indigo Professional Server\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional Server\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\Indigo Professional Server\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional Server\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\Indigo Professional Server\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\Indigo Professional Server\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\Indigo Professional Server\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\Indigo Professional Server\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\Indigo Professional Server\DAL\obj\x86\Debug\DAL.pdb
+D:\2014 Project\Indigo Professional Server\DAL\bin\x86\Debug\DAL.dll
+D:\2014 Project\Indigo Professional Server\DAL\bin\x86\Debug\DAL.pdb
+D:\2014 Project\Indigo Professional Server\DAL\bin\x86\Debug\DAL.xml
+D:\2014 Project\Indigo Professional Server\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2014 Project\Indigo Professional Server\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\2014 Project\Indigo Professional Server\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\2014 Project\Indigo Professional Server\DAL\obj\x86\Debug\DAL.dll
+D:\2014 Project\Indigo Professional Server\DAL\obj\x86\Debug\DAL.xml
+D:\2014 Project\Indigo Professional Server\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\ACChieve2014\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\ACChieve2014\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\ACChieve2014\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\ACChieve2014\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\ACChieve2014\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\ACChieve2014\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\ACChieve2014\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\ACChieve2014\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\ACChieve2014\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\ACChieveTrading\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\ACChieveTrading\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\ACChieveTrading\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.pdb
+D:\All Project\ACChieveTrading\DAL\bin\x86\Debug\DAL.dll
+D:\All Project\ACChieveTrading\DAL\bin\x86\Debug\DAL.pdb
+D:\All Project\ACChieveTrading\DAL\bin\x86\Debug\DAL.xml
+D:\All Project\ACChieveTrading\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\All Project\ACChieveTrading\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\All Project\ACChieveTrading\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\All Project\ACChieveTrading\DAL\obj\x86\Debug\DAL.dll
+D:\All Project\ACChieveTrading\DAL\obj\x86\Debug\DAL.xml
+D:\All Project\ACChieveTrading\DAL\obj\x86\Debug\DAL.pdb
+G:\D\Project INDiGO\ACChieveTrading\DAL\bin\x86\Debug\DAL.dll
+G:\D\Project INDiGO\ACChieveTrading\DAL\bin\x86\Debug\DAL.pdb
+G:\D\Project INDiGO\ACChieveTrading\DAL\bin\x86\Debug\DAL.xml
+G:\D\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\D\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.Resources.resources
+G:\D\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+G:\D\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.dll
+G:\D\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.xml
+G:\D\Project INDiGO\ACChieveTrading\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\0_Sak\ACChieveTrading\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading Pro\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TSP\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.pdb
+F:\ACChieveTrading TEP_comb\DAL\bin\x86\Debug\DAL.dll
+F:\ACChieveTrading TEP_comb\DAL\bin\x86\Debug\DAL.pdb
+F:\ACChieveTrading TEP_comb\DAL\bin\x86\Debug\DAL.xml
+F:\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.Resources.resources
+F:\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+F:\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.dll
+F:\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.xml
+F:\ACChieveTrading TEP_comb\DAL\obj\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\bin\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\bin\x86\Debug\DAL.pdb
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\bin\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.dll
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.xml
+D:\Project INDiGO\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.pdb
+D:\All Project\SangfahAgri\DAL\bin\x86\Debug\DAL.dll
+D:\All Project\SangfahAgri\DAL\bin\x86\Debug\DAL.pdb
+D:\All Project\SangfahAgri\DAL\bin\x86\Debug\DAL.xml
+D:\All Project\SangfahAgri\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.dll
+D:\All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.xml
+D:\All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.pdb
+Z:\0_San\SangfahAgri\DAL\bin\x86\Debug\DAL.dll
+Z:\0_San\SangfahAgri\DAL\bin\x86\Debug\DAL.pdb
+Z:\0_San\SangfahAgri\DAL\bin\x86\Debug\DAL.xml
+Z:\0_San\SangfahAgri\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\0_San\SangfahAgri\DAL\obj\x86\Debug\DAL.Resources.resources
+Z:\0_San\SangfahAgri\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+Z:\0_San\SangfahAgri\DAL\obj\x86\Debug\DAL.dll
+Z:\0_San\SangfahAgri\DAL\obj\x86\Debug\DAL.xml
+Z:\0_San\SangfahAgri\DAL\obj\x86\Debug\DAL.pdb
+D:\SangfahAgri\DAL\bin\x86\Debug\DAL.dll
+D:\SangfahAgri\DAL\bin\x86\Debug\DAL.pdb
+D:\SangfahAgri\DAL\bin\x86\Debug\DAL.xml
+D:\SangfahAgri\DAL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SangfahAgri\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\SangfahAgri\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\SangfahAgri\DAL\obj\x86\Debug\DAL.dll
+D:\SangfahAgri\DAL\obj\x86\Debug\DAL.xml
+D:\SangfahAgri\DAL\obj\x86\Debug\DAL.pdb
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\bin\x86\Debug\DAL.dll
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\bin\x86\Debug\DAL.pdb
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\bin\x86\Debug\DAL.xml
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.dll
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.xml
+D:\0_All Project\0_IndigoProject\SangfahAgri\DAL\obj\x86\Debug\DAL.pdb
+D:\0_All Project\SangfahAgri\DAL\bin\x86\Debug\DAL.dll
+D:\0_All Project\SangfahAgri\DAL\bin\x86\Debug\DAL.pdb
+D:\0_All Project\SangfahAgri\DAL\bin\x86\Debug\DAL.xml
+D:\0_All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\0_All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\0_All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.dll
+D:\0_All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.xml
+D:\0_All Project\SangfahAgri\DAL\obj\x86\Debug\DAL.pdb
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\bin\x86\Debug\DAL.dll
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\bin\x86\Debug\DAL.pdb
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\bin\x86\Debug\DAL.xml
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\x86\Debug\DAL.dll
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\x86\Debug\DAL.xml
+D:\0_All Project\0_DLL\ACChieveMaster\DAL\obj\x86\Debug\DAL.pdb
+D:\all project\0_DLL\masPro\masPro\DAL\bin\x86\Debug\DAL.dll
+D:\all project\0_DLL\masPro\masPro\DAL\bin\x86\Debug\DAL.pdb
+D:\all project\0_DLL\masPro\masPro\DAL\bin\x86\Debug\DAL.xml
+D:\all project\0_DLL\masPro\masPro\DAL\obj\x86\Debug\DAL.Resources.resources
+D:\all project\0_DLL\masPro\masPro\DAL\obj\x86\Debug\DAL.vbproj.GenerateResource.Cache
+D:\all project\0_DLL\masPro\masPro\DAL\obj\x86\Debug\DAL.dll
+D:\all project\0_DLL\masPro\masPro\DAL\obj\x86\Debug\DAL.xml
+D:\all project\0_DLL\masPro\masPro\DAL\obj\x86\Debug\DAL.pdb
