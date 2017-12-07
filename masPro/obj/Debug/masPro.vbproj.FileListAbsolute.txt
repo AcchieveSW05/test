@@ -35,3 +35,7 @@ D:\all project\0_DLL\masPro\masPro\masPro\obj\Debug\masPro.exe.licenses
 D:\all project\0_DLL\masPro\masPro\masPro\obj\Debug\masPro.exe
 D:\all project\0_DLL\masPro\masPro\masPro\obj\Debug\masPro.xml
 D:\all project\0_DLL\masPro\masPro\masPro\obj\Debug\masPro.pdb
+C:\GitHub-Runner\test\masPro\bin\Debug\masPro.exe.config
+C:\GitHub-Runner\test\masPro\obj\Debug\masPro.exe
+C:\GitHub-Runner\test\masPro\obj\Debug\masPro.xml
+C:\GitHub-Runner\test\masPro\obj\Debug\masPro.pdb
